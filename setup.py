@@ -9,7 +9,7 @@ setup(name="citibike",
     install_requires=[
         "alembic==1.0.8",
         "psycopg2==2.7.7",
-        "requests==2.31.0",
+        "requests==2.32.0",
         "SQLAlchemy==1.3.1"
     ],
 )
